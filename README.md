@@ -8,7 +8,7 @@ Welcome! This guide provides everything you need to create an amazing GitHub Pro
 
 ## 1. Header & Profile Views
 
-# Hi there 👋, I'm sh4lu-z! 🚀
+# Hi there 👋, I'm [ Name ]! 🚀
 A passionate Developer / Engineer / Designer.
 
 <p align="center">
@@ -17,11 +17,11 @@ A passionate Developer / Engineer / Designer.
 
 **🔗 Copy the code for this section:**
 ```html
-# Hi there 👋, I'm sh4lu-z! 🚀
+# Hi there 👋, I'm [ Name ]! 🚀
 A passionate Developer / Engineer / Designer.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sh4lu-z&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=[ Username ]&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 ```
 
